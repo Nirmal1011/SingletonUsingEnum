@@ -1,6 +1,6 @@
 package singleton;
 
-public class EnumDemo {
+public class EnumDemo{
 
 	public static void main(String[] args) {
 		//SingletonEnum singleton = SingletonEnum.INSTANCE;
