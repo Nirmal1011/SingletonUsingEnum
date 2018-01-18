@@ -1,7 +1,5 @@
 package singleton;
 
-import singleton.SingletonEnum;
-
 public class EnumDemo {
 
 	public static void main(String[] args) {
